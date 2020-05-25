@@ -1,4 +1,4 @@
-# Prime Numbers program in Python:
+# "Prime Numbers program in Python"
 
 # Prime Numbers: 
 Prime numbers are those numbers that are divisible only by itself and 1 (e.g. 2, 3, 5, 7, 11).
